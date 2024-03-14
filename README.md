@@ -1,1 +1,2 @@
-# MySQL-Library-Management-Systenm
+# MySQL-Library-Management-System
+Building a project based on the library management system. It keeps track of all information about books in the library, including their cost, status, and the total number of books available in the library.This project includes SQL scripts to create the database schema and perform common library management tasks, such as tracking book availability,employee salaries, customer registrations and book issuances.
